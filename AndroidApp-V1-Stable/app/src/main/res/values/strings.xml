@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">faircorp</string>
+    <string name="welcome_on_faircorp">Welcome on faircorp\n the app to manage building windows</string>
+    <string name="logo_of_faircorp">logo of faircorp</string>
+    <string name="window_name">Window name</string>
+    <string name="open_window">Open window</string>
+
+    <!-- ... -->
+    <string name="menu_windows">Building windows</string>
+    <string name="menu_website">Our website</string>
+    <string name="menu_email">Send us an email</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="act_window_name">Window name</string>
+    <string name="act_window_room">Room</string>
+    <string name="act_window_room_target_temp">Target room temperature</string>
+    <string name="act_window_room_current_temp">Current room temperature</string>
+    <string name="act_window_status">Status</string>
+    <!-- ... -->
+</resources>
